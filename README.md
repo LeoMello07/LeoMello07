@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - ⚡  I'm constating learning something new. 
 
 "Sometimes, when you innovate, you make mistakes. It is better to admit them quickly, and move on to improve your other innovations.”
-- JOBS, Steve
+- Jobs, Steve
