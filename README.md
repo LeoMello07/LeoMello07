@@ -1,7 +1,6 @@
 ### Hey, how's it going? 👋
 
-- :office:  I’m currently working on FrontEnd Development at XPROG LABS.
-- :books:   I’m currently learning about Quantitative Trading, React and Python.
+- :books:   I’m currently learning Python.
 - :8ball:   I'm constating learning something new. 
 
 Here's my website:
