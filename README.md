@@ -1,6 +1,6 @@
 ### Hey, how's it going? 👋
 
-- :books:   I’m currently learning Python.
+- :books:   I’m currently mobile developer iOS for TOTVS
 - :8ball:   I'm constating learning something new. 
 
 Here's my website:
