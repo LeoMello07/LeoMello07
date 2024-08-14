@@ -1,6 +1,6 @@
 ### Hey, how's it going? 👋
 
-- :books:   I’m currently mobile developer iOS for BairesDev
+- :books:   I’m currently mobile developer for GBXBrasil with React-native
 - :8ball:   I'm constating learning something new. 
 
 Here's my website:
