@@ -1,6 +1,6 @@
 ### Hey, how's it going? 👋
 
-- :books:   I’m currently mobile developer, learning in my personal projects. Swift, React | Typescript.
+- :books:   I’m currently mobile developer, learning in my personal projects. Swift, React | Typescript, Android.
 - :8ball:   I'm constating learning something new. 
 
 Here's my website:
